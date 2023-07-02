@@ -1,0 +1,7 @@
+.subscribeButton:hover {
+    background-color: red; 
+    color: white; 
+    text-transform: none; 
+    font-weight: bold; 
+    font-size: 15;
+}
